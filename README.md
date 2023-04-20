@@ -1,5 +1,7 @@
 # Entirely Over-Engineered RGB Spinner (for Python)
 
+![Entirely over-engineered GIF showing the Entirely over-engineered RGB Spinner in action](./spinner.gif)
+
 ## Why?
 
 Indeed...
